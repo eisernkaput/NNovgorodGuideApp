@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">NNovgorod Guide App</string>
+
+    <!-- Fragment names -->
+    <string name="cultural_sites">Cultural sites and attractions</string>
+    <string name="museums">Museums</string>
+    <string name="nature_and_parks">Nature and parks</string>
+    <string name="concerts_and_performances">Concerts and performances</string>
+
+    <!-- Cultural sites and attractions -->
+
+    <!-- state bank -->
+    <string name="state_bank_name">State Bank</string>
+    <string name="state_bank_address">26 Bolshaya Pokrovskaya str., Nizhny Novgorod, Russia</string>
+    <string name="state_bank_tel_num">+7–831–431–96–89</string>
+    <string name="state_bank_coordinates">geo:56.3186783,43.9972899?q=603005+Bolshaya+Pokrovskaya+str.+26+Nizhny+Novgorod</string>
+
+    <!-- rozhdestvenskaya street -->
+    <string name="rozhdestvenskaya_street_name">Rozhdestvenskaya Street</string>
+    <string name="rozhdestvenskaya_street_address">Rozhdestvenskaya  str., Nizhny Novgorod, Russia</string>
+    <string name="rozhdestvenskaya_street_coordinates">geo:56.3284323,43.9860065?q=603001+Rozhdestvenskaya+str.+Nizhny+Novgorod</string>
+
+    <!-- Pozharsky and Minin Square -->
+    <string name="pozharsky_and_minin_square_name">Pozharsky and Minin Square</string>
+    <string name="pozharsky_and_minin_square_address">Minin and Pozharsky square, Nizhny Novgorod, Russia</string>
+    <string name="pozharsky_and_minin_square_coordinates">geo:56.3278214,44.0052003?q=603005+Minin+and+Pozharsky+sqr.+Nizhny+Novgorod</string>
+
+    <!-- Chkalov Staircase -->
+    <string name="chkalov_staircase_name">Chkalov Staircase</string>
+    <string name="chkalov_staircase_address">Nizhnevolzhskaya nab., Nizhny Novgorod, Russia</string>
+    <string name="chkalov_staircase_coordinates">geo:56.3304663,44.0072506?q=603005+Nizhnevolzhskaya+nab.+Nizhny+Novgorod</string>
+
+    <!-- The Nativity of St. John the Baptist Temple -->
+    <string name="temple_name">The Nativity of St. John the Baptist Temple</string>
+    <string name="temple_address">1B Ivanovskiy s., Nizhny Novgorod, Russia</string>
+    <string name="temple_tel_num">+7–831–437–37–75</string>
+    <string name="temple_email_address">hram\@predtecha–ioann.ru</string>
+    <string name="temple_coordinates">geo:56.329822,43.9959653?q=603001+Ivanovskiy+s.+1B+Nizhny+Novgorod</string>
+
+    <!-- Museums -->
+
+    <!-- Museum of Old Equipment and Tools -->
+    <string name="museum_of_old_equipment_and_tools_name">Museum of Old Equipment and Tools</string>
+    <string name="museum_of_old_equipment_and_tools_address">43 Bolshaya Pokrovskaya str., Nizhny Novgorod, Russia</string>
+    <string name="museum_of_old_equipment_and_tools_tel_num">+7–831–125–10–60</string>
+    <string name="museum_of_old_equipment_and_tools_email_address">techmuzey\@yandex.ru</string>
+    <string name="museum_of_old_equipment_and_tools_coordinates">geo:56.31811,43.9930153?q=603005+Bolshaya+Pokrovskaya+str.+43+Nizhny+Novgorod</string>
+
+    <!-- Rukavishnikovykh Usadba -->
+    <string name="rukavishnikovykh_usadba_name">Rukavishnikovykh Usadba</string>
+    <string name="rukavishnikovykh_usadba_address">7 Verkhnevolzhskaya  nab., Nizhny Novgorod, Russia</string>
+    <string name="rukavishnikovykh_usadba_tel_num">+7–831–282–25–46</string>
+    <string name="rukavishnikovykh_usadba_email_address">usad_ba\@mail.ru</string>
+    <string name="rukavishnikovykh_usadba_coordinates">geo:56.3293811,44.0139764?q=603005+Verkhnevolzhskaya+nab.+7+Nizhny+Novgorod</string>
+
+    <!-- Nizhny Novgorod State Art Museum -->
+    <string name="art_museum_name">Nizhny Novgorod State Art Museum</string>
+    <string name="art_museum_address">3 Kremlin , Nizhny Novgorod, Russia</string>
+    <string name="art_museum_tel_num">+7–831–439–08–55</string>
+    <string name="art_museum_email_address">art.museum.nnov\@mail.ru</string>
+    <string name="art_museum_coordinates">geo:56.3292575,44.006347?q=603082+Kremlin+3+Nizhny+Novgorod</string>
+
+    <!-- History Museum of Russian car-producer GAZ -->
+    <string name="history_museum_of_russian_car_producer_GAZ_name">History Museum of Russian car-producer GAZ</string>
+    <string name="history_museum_of_russian_car_producer_GAZ_address">95 Lenina Avenue, Nizhny Novgorod, Russia</string>
+    <string name="history_museum_of_russian_car_producer_GAZ_tel_num">+7–831–290–86–98</string>
+    <string name="history_museum_of_russian_car_producer_GAZ_email_address">kolesnikovanv\@gaz.ru</string>
+    <string name="history_museum_of_russian_car_producer_GAZ_coordinates">geo:56.2552998,43.8923216?q=603004+Lenina+Avenue+95+Nizhny+Novgorod</string>
+
+    <!-- Russian Museum of Photography -->
+    <string name="russian_museum_of_photography_name">Russian Museum of Photography</string>
+    <string name="russian_museum_of_photography_address">9a Piskunova str., Nizhny Novgorod, Russia</string>
+    <string name="russian_museum_of_photography_tel_num">+7–831–437–37–43</string>
+    <string name="russian_museum_of_photography_email_address">rmfmuseum\@mts–nn.ru</string>
+    <string name="russian_museum_of_photography_coordinates">geo:56.3239004,44.0007281?q=603005+Piskunova+str.+9a+Nizhny+Novgorod</string>
+
+    <!-- Nature and parks -->
+
+    <!-- Limpopo Zoo -->
+    <string name="limpopo_zoo_name">Limpopo Zoo</string>
+    <string name="limpopo_zoo_address">7B Yaroshenko, str., Nizhny Novgorod, Russia</string>
+    <string name="limpopo_zoo_tel_num">+7–831–271–67–37</string>
+    <string name="limpopo_zoo_email_address">limpopozoo\@mail.ru</string>
+    <string name="limpopo_zoo_coordinates">geo:56.334554,43.8519363?q=603035+Yaroshenko+str.+7B+Nizhny+Novgorod</string>
+
+    <!-- Sormovskiy Park of Culture and Leisure -->
+    <string name="sormovskiy_park_of_culture_and_leisure_name">Sormovskiy Park of Culture and Leisure</string>
+    <string name="sormovskiy_park_of_culture_and_leisure_address">31B Jubiyniy Boulevard, , Nizhny Novgorod, Russia</string>
+    <string name="sormovskiy_park_of_culture_and_leisure_tel_num">+7–831–225–18–32</string>
+    <string name="sormovskiy_park_of_culture_and_leisure_email_address">sormovskipark\@rambler.ru</string>
+    <string name="sormovskiy_park_of_culture_and_leisure_coordinates">geo:56.3375423,43.8596186?q=603094+Jubiyniy+Boulevard+31B+Nizhny+Novgorod</string>
+
+    <!-- Nizhny Novgorod Ekzotarium Exhibition Center -->
+    <string name="ekzotarium_exhibition_center_name">Nizhny Novgorod Ekzotarium Exhibition Center</string>
+    <string name="ekzotarium_exhibition_center_address">118 Bolshaya Pokrovskaya str., Nizhny Novgorod, Russia</string>
+    <string name="ekzotarium_exhibition_center_tel_num">+7–903–605–99–01</string>
+    <string name="ekzotarium_exhibition_center_email_address">info\@terraria–nn.ru</string>
+    <string name="ekzotarium_exhibition_center_coordinates">56.322322,43.9987444,17?q=603005+Bolshaya+Pokrovskaya+str.+118+Nizhny+Novgorod</string>
+
+    <!-- Switzerland Recreation Park -->
+    <string name="switzerland_recreation_park_name">Switzerland Recreation Park</string>
+    <string name="switzerland_recreation_park_address">35 Gagarin Avenue, Nizhny Novgorod, Russia</string>
+    <string name="switzerland_recreation_park_tel_num">+7–831–465–86–81</string>
+    <string name="switzerland_recreation_park_email_address">parknnov\@mail.ru</string>
+    <string name="switzerland_recreation_park_coordinates">geo:56.2786312,43.9764101?q=6031044+Gagarin+Avenue+35+Nizhny+Novgorod</string>
+
+    <!-- NII Botanical Garden -->
+    <string name="nii_botanical_garden_name">NII Botanical Garden</string>
+    <string name="nii_botanical_garden_address">1 Botanicheskiy sad, str., Nizhny Novgorod, Russia</string>
+    <string name="nii_botanical_garden_tel_num">+7–831–465–51–41</string>
+    <string name="nii_botanical_garden_email_address">sad\@bio.unn.ru</string>
+    <string name="nii_botanical_garden_coordinates">geo:56.2553306,44.0040654?q=603062+Botanicheskiy+sad+str.+1+Nizhny+Novgorod</string>
+
+    <!-- Concerts & performances -->
+
+    <!-- Nizhniy Novgorod Circus -->
+    <string name="nizhniy_novgorod_circus_name">Nizhniy Novgorod Circus</string>
+    <string name="nizhniy_novgorod_circus_address">38 Kommunisticheskaya, str., Nizhny Novgorod, Russia</string>
+    <string name="nizhniy_novgorod_circus_tel_num">+7–831–246–40–00</string>
+    <string name="nizhniy_novgorod_circus_email_address">pr\@circus.r52.ru</string>
+    <string name="nizhniy_novgorod_circus_coordinates">geo:56.318483,43.9508633?q=603035+Kommunisticheskaya+str.+38+Nizhny+Novgorod</string>
+
+    <!-- The Nizhny Novgorod State Academic Drama Theater of Gorkiy -->
+    <string name="drama_theater_name">The Nizhny Novgorod State Academic Drama Theater of Gorkiy</string>
+    <string name="drama_theater_address">13 Bolshaya Pokrovskaya str., Nizhny Novgorod, Russia</string>
+    <string name="drama_theater_tel_num">+7–831–271–67–37</string>
+    <string name="drama_theater_email_address">dramteatr\@sinn.ru</string>
+    <string name="drama_theater_coordinates">geo:56.3240845,43.9993647?q=603005+Bolshaya+Pokrovskaya+str.+13+Nizhny+Novgorod</string>
+
+    <!-- The Nizhniy Novgorod State Academic Opera and Ballet Theater -->
+    <string name="opera_and_ballet_theater_name">The Nizhniy Novgorod State Academic Opera and Ballet Theater</string>
+    <string name="opera_and_ballet_theater_address">59/2 Belinskogo, str., Nizhny Novgorod, Russia</string>
+    <string name="opera_and_ballet_theater_tel_num">+7–831–428–50–56</string>
+    <string name="opera_and_ballet_theater_email_address">teatropera\@mail.ru</string>
+    <string name="opera_and_ballet_theater_coordinates">geo:56.315478,44.0149853?q=603035+Belinskogo+str.+59/2+Nizhny+Novgorod</string>
+
+    <!-- Nizhny Novgorod Academic Puppet Theatre -->
+    <string name="puppet_theatre_name">Nizhny Novgorod Academic Puppet Theatre</string>
+    <string name="puppet_theatre_address">39 Bolshaya Pokrovskaya, str., Nizhny Novgorod, Russia</string>
+    <string name="puppet_theatre_tel_num">+7–831–430–51–20</string>
+    <string name="puppet_theatre_email_address">press_ntk\@mail.ru</string>
+    <string name="puppet_theatre_coordinates">56.3184058,43.9937007?q=603005+Bolshaya+Pokrovskaya+str.+39+Nizhny+Novgorod</string>
+
+    <!-- Comedy Theater -->
+    <string name="comedy_theater_name">Comedy Theater</string>
+    <string name="comedy_theater_address">23 Gruzinskaya, str., Nizhny Novgorod, Russia</string>
+    <string name="comedy_theater_tel_num">+7–831–430–69–14</string>
+    <string name="comedy_theater_email_address">komedi\@mail.ru</string>
+    <string name="comedy_theater_coordinates">geo:56.320402,44.0000563?q=603000+Gruzinskaya+str.+23+Nizhny+Novgorod</string>
+
+</resources>
